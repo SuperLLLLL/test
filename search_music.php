@@ -1,9 +1,4 @@
-<?php
-	include_once "inc/config_inc.php";
-	include_once "inc/mysql_inc.php";
-	include_once "inc/tool_inc.php";
-	$link = connect();
-?>
+
 
 <?php
 	// 输入内容检查部分
